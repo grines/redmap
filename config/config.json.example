@@ -1,0 +1,10 @@
+{
+    "apiShodan":"",
+    "apiTrails":"",
+    "apiVirustotal":"",
+    "apiCensysUID":"",
+    "apiCensysSecret":"",
+    "apiSplunk":"",
+    "splunkEndpoint":"",
+    "slackWebhookURL":""
+ }
