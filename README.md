@@ -1,6 +1,3 @@
-# redmap
-Attack Surface Mapping
-
 ![](https://github.com/grines/redmap/blob/main/redmap.gif)
 
 # RedMap - External Attack Surface Mapping
