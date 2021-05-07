@@ -25,6 +25,7 @@ Map external attack surface through opensource and paid APIs.
 
 # Features
 - [X] Common Port Scan
+- [ ] Slack Notifications
 
 
 ## Prereqs
