@@ -5,13 +5,17 @@ import (
 	"fmt"
 	"net/http"
 	"time"
+
+	"github.com/grines/redmap/config"
 )
 
 //AddData ...
 func ElasticOut(data []byte) {
 
+	elasticEndpoint := config.Configuration.ElaticEndpoint
+
 	//TODO load from config
-	urls := "http://localhost:9200/scans/doc"
+	urls := elasticEndpoint
 
 	checks := []byte(data)
 

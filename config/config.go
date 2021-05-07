@@ -18,6 +18,8 @@ type config struct {
 	Apisplunk       string `json:"apiSplunk"`
 	Splunkendpoint  string `json:"splunkEndpoint"`
 	Slackwebhookurl string `json:"slackWebhookURL"`
+	ElaticEndpoint  string `json:"elasticEndpoint"`
+	StoragePath     string `json:"storagePath"`
 }
 
 //Load configuration function
