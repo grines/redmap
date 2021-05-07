@@ -15,6 +15,24 @@ Map external attack surface through opensource and paid APIs.
 - [X] Security Trails
 - [X] CRT.sh
 - [ ] DNSDumpster
+- [ ] https://dns.bufferover.run
+- [ ] https://index.commoncrawl.org 
+- [ ] https://riddler.io 
+- [ ] https://api.certspotter.com
+- [ ] https://api.hackertarget.com 
+- [ ] https://api.threatminer.org
+- [ ] https://community.riskiq.com
+- [ ] https://docs.binaryedge.io
+- [ ] https://graph.facebook.com
+- [ ] https://otx.alienvault.com
+- [ ] https://rapiddns.io
+- [ ] https://spyse.com
+- [ ] https://urlscan.io
+- [ ] https://www.dnsdb.info
+- [ ] https://www.virustotal.com
+- [ ] https://threatcrowd.org
+- [ ] https://web.archive.org
+
 
 # Output Modules
 - [X] Elasticsearch
