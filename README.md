@@ -5,7 +5,8 @@
 Map external attack surface through opensource and paid APIs.
 
 ## Status
-- This is still an active work in progress. Migh have some bugs
+- This is still an active work in progress. Bugs
+- Status: Not ready for production
 
 ## Ingestion Modules
 - [x] Censys
