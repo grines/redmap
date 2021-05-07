@@ -9,12 +9,12 @@ Map external attack surface through opensource and paid APIs.
 - Not ready for production
 
 ## Ingestion Modules
-- [x] Censys
-- [X] Shodan
-- [X] Virus Total
-- [X] Security Trails
-- [X] CRT.sh
-- [ ] DNSDumpster
+- [x] https://censys.io
+- [X] https://api.shodan.io
+- [X] https://www.virustotal.com
+- [X] https://api.securitytrails.com
+- [X] https://crt.sh
+- [ ] https://dnsdumpster.com
 - [ ] https://dns.bufferover.run
 - [ ] https://index.commoncrawl.org 
 - [ ] https://riddler.io 
