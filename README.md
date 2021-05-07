@@ -5,7 +5,8 @@
 Map external attack surface through opensource and paid APIs.
 
 ## Status
-- This is still an active work in progress. Migh have some bugs
+- This is still an active work in progress. Bugs
+- Not ready for production
 
 ## Ingestion Modules
 - [x] Censys
@@ -33,6 +34,7 @@ Map external attack surface through opensource and paid APIs.
  
 ## Getting Started
 - go get github.com/redmap
+- cp config/config.json.example config.json
 
 ## CLI
 - ./redmap -domain example.com 
