@@ -75,7 +75,7 @@ func GetShodan(domain string) Hosts {
 	h := Hosts{Host: HostData}
 
 	for _, k := range shodan.Subdomains {
-		host := k + ".twilio.com"
+		host := k + "." + domain
 		x := iptools.GrabIP(host)
 		for _, ip := range x {
 			if iptools.IsIPv4(ip.String()) {
